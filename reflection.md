@@ -8,7 +8,7 @@ Brendan Self Evaluation Rubric
 
 ### Understanding (CiE) 
 
-The skills this project focused on were: 
+The skills this project focused on were: I used functions, arrays, loops, and variables in this project.
 
 My project exhibits
 
